@@ -1,1 +1,4 @@
-INt main()
+int main()
+{
+cout<<"hii";
+}
